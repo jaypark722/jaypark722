@@ -6,10 +6,10 @@
 
 <h3>💻 What I Do</h3>
 <p>
-🔧 Develop solutions and scripts using Python, Bash, and PowerShell<br>
-☁️ Work with virtualization platforms like VMware and GNS3<br>
-🤖 Automate repetitive security tasks and system management<br>
-🐧 Use Linux and Windows extensively for system hardening and network defense
+🔧 Develop solutions and scripts in Python, Bash, and PowerShell for automation and security tasks<br>
+☁️ Configure and secure cloud and virtualized environments using VMware, Virtualbox, and GNS3<br>
+🤖 Use SIEM and HIDS tools to automate threat detection and incident response<br>
+🐧 Harden and manage systems on Windows, Linux, and Kali Linux for system hardening and network defense
 </p>
 
 <h3>🔍 What Drives Me</h3>
@@ -17,24 +17,19 @@
 
 <h2>🚀 My Skills & Tools</h2>
 <ul>
-<li><strong>Languages & Shells:</strong> Python, Bash, PowerShell</li>
-<li><strong>Operating Systems:</strong> Linux, Windows, Ubuntu, Debian</li>
-<li><strong>Security Tools:</strong> ELK Stack, Wazuh, Snort, Wireshark, Nmap</li>
-<li><strong>Virtualization & Other:</strong> Docker, Git, VMware, GNS3</li>
-<li><strong>Web & Cloud:</strong> HTML5, CSS3, JavaScript</li>
+<li><strong>Languages:</strong> Python, Bash, PowerShell, SQL</li>
+<li><strong>Operating Systems:</strong> Windows Server, Linux, Mac</li>
+<li><strong>Network Protocols:</strong> TCP/IP, FTP, SSH, DNS, DHCP, HTTP</li>
+<li><strong>Security Tools:</strong> SIEM (ELK Stack, Wazuh), IDS/IPS (Snort, Suricata, Zeek), Sysmon, Wireshark, Brim, Nmap, Hydra, SQLmap</li>
+<li><strong>Virtualization & Other:</strong> VMware, VirtualBox, Cisco Packet Tracer, GNS3, Git</li>
 </ul>
 
 <h2>My Projects</h2>
 <ul>
-<li><strong>SIEM Implementation:</strong> Configured and integrated ELK Stack and Wazuh as SIEM solutions for centralized security monitoring.</li>
+<li><strong>SIEM Implementation:</strong> Configured and integrated the ELK Stack and Wazuh as SIEM solutions for centralized security monitoring.</li>
 <li><strong>Network Traffic Analysis:</strong> Performed network intrusion detection with Suricata and Snort, analyzed traffic using Wireshark and Zeek, and conducted security-focused packet analysis.</li>
-<li><strong>Secure Enterprise Network Engineering:</strong> Designed and implemented a secure network using Cisco Packet Tracer and GNS3, configuring VLANs and a RADIUS server for centralized authentication.</li>
+<li><strong>Secure Enterprise Network:</strong> Designed and implemented a secure network using Cisco Packet Tracer and GNS3, configuring VLANs and a RADIUS server for centralized authentication.</li>
 <li><strong>System Security & Tool Development:</strong> Built a custom Python port scanner and HIDS script, configured a secure Windows Server with Active Directory, and explored database vulnerabilities through SQL injection.</li>
-</ul>
-
-<h2>Let's Connect</h2>
-<ul>
-<li><strong>LinkedIn:</strong> <a href="https://www.https://www.google.com/search?q=linkedin.com/in/jaypark722/" target="_blank">linkedin.com/in/jaypark722</a></li>
 </ul>
 
 ---
