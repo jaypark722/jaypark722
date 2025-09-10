@@ -6,14 +6,11 @@
 
 <h3>💻 What I Do</h3>
 <p>
-🔧 Develop solutions and scripts in Python, Bash, and PowerShell for automation and security tasks<br>
-☁️ Configure and secure cloud and virtualized environments using VMware, Virtualbox, and GNS3<br>
-🤖 Use SIEM and HIDS tools to automate threat detection and incident response<br>
-🐧 Harden and manage systems on Windows, Linux, and Kali Linux for system hardening and network defense
+🔧 SIEM Implementation: Configured and integrated the ELK Stack and Wazuh as SIEM solutions for centralized security monitoring.<br>
+☁️ Network Traffic Analysis: Performed network intrusion detection with Suricata and Snort, analyzed traffic using Wireshark and Zeek, and conducted security-focused packet analysis.<br>
+🤖 Secure Enterprise Network: Designed and implemented a secure network using Cisco Packet Tracer and GNS3, configuring VLANs and a RADIUS server for centralized authentication.<br>
+🐧 System Security & Tool Development: Built a custom Python port scanner and HIDS script, configured a secure Windows Server with Active Directory, and explored database vulnerabilities through SQL injection.
 </p>
-
-<h3>🔍 What Drives Me</h3>
-<p>Creating smart, secure, and user-centric solutions that simplify complex tasks and empower teams to move faster and smarter. I am especially interested in the intersection of network security, automation, and system administration.</p>
 
 <h2>🚀 My Skills & Tools</h2>
 <ul>
