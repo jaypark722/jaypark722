@@ -34,7 +34,7 @@
 
 <h2>Let's Connect</h2>
 <ul>
-<li><strong>LinkedIn:</strong> <a href="https://www.https://www.google.com/search?q=linkedin.com/in/jaypark722/" target="_blank">https://www.google.com/search?q=linkedin.com/in/jaypark722</a></li>
+<li><strong>LinkedIn:</strong> <a href="https://www.https://www.google.com/search?q=linkedin.com/in/jaypark722/" target="_blank">linkedin.com/in/jaypark722</a></li>
 </ul>
 
 ---
