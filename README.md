@@ -37,6 +37,14 @@
 <li><strong>LinkedIn:</strong> <a href="https://www.https://www.google.com/search?q=linkedin.com/in/jaypark722/" target="_blank">https://www.google.com/search?q=linkedin.com/in/jaypark722</a></li>
 </ul>
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/LmN8gC5139y0mYJ4I6/giphy.gif" alt="Binary code matrix animation" width="300"/>
-</p>
+---
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+---
