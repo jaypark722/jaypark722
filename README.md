@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jay</h1>
 
 <h2>🚀 About Me</h2>
-<p>I'm a Cybersecurity trainee at BeCode, actively building hands-on experience in security operations and network defense. My project-based portfolio demonstrates a commitment to applying my technical knowledge to real-world security challenges, and I am eager to contribute my skills in a professional setting.</p>
+<p>I'm a Cybersecurity trainee at BeCode (Brussels, Belgium), actively building hands-on experience in security operations and network defense. My project-based portfolio demonstrates a commitment to applying my technical knowledge to real-world security challenges, and I am eager to contribute my skills in a professional setting.</p>
 
 <h3>💻 What I Do</h3>
 <p>
