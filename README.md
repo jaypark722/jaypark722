@@ -8,7 +8,7 @@
 🔧 SIEM Implementation: Configured and integrated the ELK Stack and Wazuh as SIEM solutions for centralized security monitoring.<br>
 ☁️ Network Traffic Analysis: Performed network intrusion detection with Suricata and Snort, analyzed traffic using Wireshark and Zeek, and conducted security-focused packet analysis.<br>
 🤖 Secure Enterprise Network: Designed and implemented a secure network using Cisco Packet Tracer and GNS3, configuring VLANs and a RADIUS server for centralized authentication.<br>
-🐧 System Security & Tool Development: Built a custom Python port scanner and HIDS script, configured a secure Windows Server with Active Directory, and explored database vulnerabilities through SQL injection.
+🐧 System Security & Tool Development: Built a custom Python port scanner and HIDS script, configured a secure Windows Server with Active Directory, and explored database vulnerabilities through SQL injection.<br>
 💡 Threat Intelligence & Automation: Engineered a closed-loop Threat Intelligence (TI) pipeline using **OpenCTI** to feed Indicators of Compromise (IOCs) to **Splunk, Zeek, and Snort**; automated detection enrichment by configuring Splunk alerts to create **Sightings** in OpenCTI.
 </p>
 
