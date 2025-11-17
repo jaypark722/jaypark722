@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jay</h1>
 
 <h2>About Me</h2>
-<p>I am a versatile Cybersecurity Analyst and Developer combining hands-on proficiency in core IT infrastructure, network defense, and security operations. While eager to contribute across all operational IT functions, my experience is distinguished by deep technical development and analysis. I possess proven expertise in implementing enterprise-grade SIEM/analytics and architecting a Self Evolving Hybrid Deception Platform to autonomously profile and predict attacker behavior.</p>
+<p>I'm a cybersecurity analyst and developer who builds and defends systems across core IT infrastructure, network defense, and security operations. I split my time between hands-on engineering and threat analysis, from implementing enterprise SIEM/analytics to architecting a Self‑Evolving Hybrid Deception Platform that uses ML and automation to profile and anticipate attacker behavior. I enjoy turning research into practical tooling and automated detection pipelines. I also have a creative background in UX/UI design and work as a graphic artist, which I bring to visualization, product-focused tooling, and user-centered security solutions.</p>
 
 <h2>Projects</h2>
 <ul>
