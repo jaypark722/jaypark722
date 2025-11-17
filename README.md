@@ -21,6 +21,24 @@
 <li><strong>Virtualization & DevOps:</strong> Docker / Containerization, VMware, VirtualBox, Cisco Packet Tracer, GNS3, Git.</li>
 <li><strong>Automation & Intelligence:</strong> n8n Workflow Automation, Webhook Integration, API Interfacing, Large Language Models (LLM), Vector Databases (Qdrant)</li>
 </ul>
+
+<h2>Repositories</h2>
+<p>Quick references to the repositories that contain the projects and labs mentioned above. Private repositories are noted where applicable — click the names to view each project on GitHub.</p>
+<ul>
+<li><a href="https://github.com/jaypark722/The-Cryptic-Vault">The-Cryptic-Vault</a> (Private) — Advanced encrypted storage, secure tooling and vaulting techniques.</li>
+<li><a href="https://github.com/jaypark722/Honeypot-for-Orange-Hackathon">Honeypot for Orange Hackathon</a> — Honeypot used for the 2025 Orange Hackathon (2nd place): multi-protocol deception leveraging NGINX, LLM & automation.</li>
+<li><a href="https://github.com/jaypark722/Integrated-Threat-Intelligence-Pipeline">Integrated-Threat-Intelligence-Pipeline</a> — Closed-loop CTI validation integrating OpenCTI with Zeek, Snort and Splunk for IOC-based detection.</li>
+<li><a href="https://github.com/jaypark722/ELK-Stack-as-a-SIEM">ELK-Stack-as-a-SIEM</a> — ELK Stack and security tool integration for centralized logging and analytics.</li>
+<li><a href="https://github.com/jaypark722/Osquery_Wazuh">Osquery_Wazuh</a> — Osquery and Wazuh integration exercises and HIDS examples.</li>
+<li><a href="https://github.com/jaypark722/Network_Design">Network_Design</a> — Secure and efficient network design for a new office (VLANs, RADIUS, segmentation).</li>
+<li><a href="https://github.com/jaypark722/Python_Port_Scanner">Python_Port_Scanner</a> — A custom Python port scanner and supporting tooling.</li>
+<li><a href="https://github.com/jaypark722/Wireshark_Packet_Analysis">Wireshark_Packet_Analysis</a> — Packet-level forensics and analysis reports using Wireshark.</li>
+<li><a href="https://github.com/jaypark722/Zeek_Monitoring_Lab">Zeek_Monitoring_Lab</a> — Zeek-based network traffic monitoring labs and examples.</li>
+<li><a href="https://github.com/jaypark722/Nmap_Wireshark_Lab">Nmap_Wireshark_Lab</a> — Scanning and packet inspection lab exercises.</li>
+<li><a href="https://github.com/jaypark722/Suricata_Snort_Sysmon">Suricata_Snort_Sysmon</a> — Network and host detection using Suricata, Snort and Sysmon.</li>
+<li><a href="https://github.com/jaypark722/monitoring_101">monitoring_101</a> (Private) — Linux monitoring tool and experiments.</li>
+</ul>
+
 ---
 
 <br clear="both">
